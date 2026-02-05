@@ -12,7 +12,7 @@ MODEL_PATH = r"E:\Downloads\sakura-7b-qwen2.5-v1.0-q6k.gguf"
 INPUT_PATH = r"E:\Downloads\output_fixed.srt"  # 支持 .srt 或 .ass
 OUTPUT_PATH = r"E:\Downloads\output_fixed.srt"
 
-MAX_WORKERS = 2
+MAX_WORKERS = 8
 BATCH_SIZE = 8  # ASS 专用的批处理大小
 model_lock = threading.Lock()
 progress_lock = threading.Lock()
@@ -210,3 +210,4 @@ def start():
 
 if __name__ == "__main__":
     start()
+
