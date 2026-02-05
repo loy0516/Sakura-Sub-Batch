@@ -12,6 +12,17 @@
 
 ---
 
+## 🖥️ 显示效果
+<img width="1920" height="1168" alt="Snipaste_2026-02-05_17-47-18" src="https://github.com/user-attachments/assets/b7fa4059-2a68-4224-872c-3b7e704b921c" />
+
+---
+
+## 🖥️ 扩展插件
+- **使用方法**：拖动字幕文件到播放内容中
+<img width="1072" height="208" alt="image" src="https://github.com/user-attachments/assets/59d7ef04-f5d1-4de2-81f7-9b517623eee6" />
+
+---
+
 ## 🛠️ 1. 环境准备 (必读)
 
 要实现秒级翻译速度，必须正确配置显卡加速环境：
